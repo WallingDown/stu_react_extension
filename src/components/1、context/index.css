@@ -1,0 +1,16 @@
+.parent{
+   background-color:#ff6700; 
+   padding: 10px;
+}
+.child{
+    background-color:purple; 
+    padding: 10px;
+ }
+ .grand{
+    background-color:yellowgreen; 
+    padding: 10px;
+ }
+ .demo{
+   background-color:#ff6700; 
+   padding: 10px;
+}
